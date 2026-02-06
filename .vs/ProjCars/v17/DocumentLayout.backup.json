@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars\\projcars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|solutionrelative:projcars\\projcars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|solutionrelative:projcars\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|solutionrelative:projcars\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|solutionrelative:projcars\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|solutionrelative:projcars\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF96EDD-8A99-4FF6-B801-00BD8B4DC49E}|ProjCars.ApplicationServices\\ProjCars.ApplicationServices.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars.applicationservices\\carsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF96EDD-8A99-4FF6-B801-00BD8B4DC49E}|ProjCars.ApplicationServices\\ProjCars.ApplicationServices.csproj|solutionrelative:projcars.applicationservices\\carsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjCars/True/SqlTable/dbo.Cars.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars\\views\\cars\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|solutionrelative:projcars\\views\\cars\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09C3BAB-75F5-47AA-A193-CA0A5A43BDD5}|ProjCars\\ProjCars.csproj|solutionrelative:projcars\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451CE2AE-3E1E-4D1C-B588-70DD287D196E}|ProjCars.Core\\ProjCars.Core.csproj|c:\\users\\ronald\\desktop\\projekt-cars\\projcars\\projcars.core\\services\\icarsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451CE2AE-3E1E-4D1C-B588-70DD287D196E}|ProjCars.Core\\ProjCars.Core.csproj|solutionrelative:projcars.core\\services\\icarsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 567,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjCars",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\ProjCars.csproj",
+              "RelativeDocumentMoniker": "ProjCars\\ProjCars.csproj",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\ProjCars.csproj",
+              "RelativeToolTip": "ProjCars\\ProjCars.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T01:38:37.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjCars\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjCars\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T01:04:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjCars\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "ProjCars\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T00:32:50.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarsServices.cs",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars.Core\\Services\\ICarsServices.cs",
+              "RelativeDocumentMoniker": "ProjCars.Core\\Services\\ICarsServices.cs",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars.Core\\Services\\ICarsServices.cs",
+              "RelativeToolTip": "ProjCars.Core\\Services\\ICarsServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:35:34.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarsServices.cs",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars.ApplicationServices\\CarsServices.cs",
+              "RelativeDocumentMoniker": "ProjCars.ApplicationServices\\CarsServices.cs",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars.ApplicationServices\\CarsServices.cs",
+              "RelativeToolTip": "ProjCars.ApplicationServices\\CarsServices.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:39:54.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjCars\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "ProjCars\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T00:34:14.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Cars [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjCars/True/SqlTable/dbo.Cars.sql",
+              "ToolTip": "dbo.Cars [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-06T00:55:22.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjCars\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "ProjCars\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T00:30:57.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\CreateUpdate.cshtml",
+              "RelativeDocumentMoniker": "ProjCars\\Views\\Cars\\CreateUpdate.cshtml",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Views\\Cars\\CreateUpdate.cshtml",
+              "RelativeToolTip": "ProjCars\\Views\\Cars\\CreateUpdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T00:33:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "ProjCars\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\ronald\\Desktop\\Projekt-Cars\\ProjCars\\ProjCars\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "ProjCars\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:34:34.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1146,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

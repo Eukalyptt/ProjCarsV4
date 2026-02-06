@@ -1,0 +1,14 @@
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\bin\Debug\net9.0\ProjCars.Core.deps.json
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\bin\Debug\net9.0\ProjCars.Core.runtimeconfig.json
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\bin\Debug\net9.0\ProjCars.Core.dll
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\bin\Debug\net9.0\ProjCars.Core.pdb
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.csproj.AssemblyReference.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.AssemblyInfoInputs.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.AssemblyInfo.cs
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.csproj.CoreCompileInputs.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.dll
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\refint\ProjCars.Core.dll
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.pdb
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ProjCars.Core.genruntimeconfig.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Core\obj\Debug\net9.0\ref\ProjCars.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\bin\Debug\net9.0\ProjCars.Data.deps.json
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\bin\Debug\net9.0\ProjCars.Data.runtimeconfig.json
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\bin\Debug\net9.0\ProjCars.Data.dll
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\bin\Debug\net9.0\ProjCars.Data.pdb
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\bin\Debug\net9.0\ProjCars.Core.dll
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\bin\Debug\net9.0\ProjCars.Core.pdb
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.csproj.AssemblyReference.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.AssemblyInfoInputs.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.AssemblyInfo.cs
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.csproj.CoreCompileInputs.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.C263CA64.Up2Date
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.dll
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\refint\ProjCars.Data.dll
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.pdb
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ProjCars.Data.genruntimeconfig.cache
+C:\Users\ronald\Desktop\Projekt-Cars\ProjCars\ProjCars.Data\obj\Debug\net9.0\ref\ProjCars.Data.dll

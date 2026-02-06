@@ -1,0 +1,50 @@
+﻿@model ProjCars.Core.Domain.Car
+
+@{
+  ViewData["Title"] = "Car Details";
+}
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+  <div>
+    <h2 class="mb-0">Details</h2>
+    <div class="text-muted small">@Model.Brand @Model.Model</div>
+  </div>
+
+  <div class="d-flex gap-2">
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-outline-primary">
+      Edit
+    </a>
+    <a asp-action="Index" class="btn btn-outline-secondary">
+      Back
+    </a>
+  </div>
+</div>
+
+<div class="card shadow-sm">
+  <div class="card-body">
+    <dl class="row mb-0">
+      <dt class="col-sm-3 text-muted">Brand</dt>
+      <dd class="col-sm-9">@Model.Brand</dd>
+
+      <dt class="col-sm-3 text-muted">Model</dt>
+      <dd class="col-sm-9">@Model.Model</dd>
+
+      <dt class="col-sm-3 text-muted">Year</dt>
+      <dd class="col-sm-9">@Model.Year</dd>
+
+      <dt class="col-sm-3 text-muted">Engine</dt>
+      <dd class="col-sm-9">@Model.Engine</dd>
+
+      <dt class="col-sm-3 text-muted">Price</dt>
+      <dd class="col-sm-9">@Model.Price.ToString("0.00")</dd>
+
+      <hr class="my-3" />
+
+      <dt class="col-sm-3 text-muted">Created At</dt>
+      <dd class="col-sm-9">@Model.CreatedAt.ToString("yyyy-MM-dd HH:mm")</dd>
+
+      <dt class="col-sm-3 text-muted">Modified At</dt>
+      <dd class="col-sm-9">@Model.ModifiedAt.ToString("yyyy-MM-dd HH:mm")</dd>
+    </dl>
+  </div>
+</div>
